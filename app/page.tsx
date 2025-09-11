@@ -51,7 +51,7 @@ export default function LandingPage() {
         className="bg-gradient-to-r from-indigo-600 to-sky-500 text-white py-3 px-4 text-center"
       >
         <p className="text-sm font-medium">
-          Starte mit Elliott-Assist - Jetzt Anmelden und Zeit beim Kundensupport sparen
+          Starte mit Elliott Assist - Jetzt Anmelden und Zeit beim Kundensupport sparen
           <Button variant="ghost" size="sm" className="ml-2 text-white hover:text-indigo-100">
             Anmelden <ArrowRight className="ml-1 h-4 w-4" />
           </Button>
