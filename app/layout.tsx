@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Elliott Assist - AI-powered Customer Support',
+  title: 'Elliott Assist',
   description: 'AI-powered Customer Support für moderne Unternehmen. Bearbeite Kundenanfragen 67% schneller mit DSGVO-konformem AI Agent direkt in Gmail.',
-  generator: 'Elliott Assist',
+  generator: 'v0.app',
 }
 
 export default function RootLayout({
