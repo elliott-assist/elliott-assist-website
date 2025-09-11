@@ -73,11 +73,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <div className="ml-3">
-<<<<<<< Updated upstream
                 <span className="text-xl font-bold text-gray-900">Elliott Assist</span>
-=======
-                <span className="text-xl font-bold text-gray-900">Elliott-Assist</span>
->>>>>>> Stashed changes
               </div>
             </div>
 
@@ -115,13 +111,12 @@ export default function LandingPage() {
             */}
 
             <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Bearbeite deine Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott-Assist - direkt in
+              Bearbeite deine Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott Assist - direkt in
               Gmail
             </motion.h1>
 
             <motion.p variants={fadeInUp} className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Skaliere deinen Support mit AI und spare Zeit. Automatisiere Konversationen in Chat, E-Mail und sozialen
-              Medien mit unserem DSGVO-konformen AI Agent.
+              Skaliere deinen Support mit Elliott Assist und spare Zeit. Beschleunige Konversationen E-Mails mit unserem Assist Tool.
             </motion.p>
 
             <motion.div variants={fadeInUp} className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -169,8 +164,8 @@ export default function LandingPage() {
                     <div className="flex items-center">
                       <Bot className="h-8 w-8 text-indigo-600 mr-3" />
                       <div>
-                        <p className="text-sm font-medium text-gray-900">AI Antwort generiert</p>
-                        <p className="text-xs text-gray-500">Basierend auf Wissensdatenbank</p>
+                        <p className="text-sm font-medium text-gray-900">Indidividuelle Antworten generiert</p>
+                        <p className="text-xs text-gray-500">Basierend auf deinen Produktdaten</p>
                       </div>
                     </div>
                   </div>
@@ -196,8 +191,7 @@ export default function LandingPage() {
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Plug & Play Setup</h3>
                   <p className="text-gray-600">
-                    Sofort startklar mit Google Workspace App. Keine komplizierte Installation oder Einrichtung
-                    erforderlich.
+                    Sofort startklar mit Google Workspace App. Einfache Installation und Einrichtung.
                   </p>
                 </div>
               </div>
@@ -211,7 +205,7 @@ export default function LandingPage() {
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">Made in Germany</h3>
                   <p className="text-gray-600">
-                    DSGVO konformes Hosting und Architektur. Ihre Daten bleiben sicher in Deutschland.
+                    DSGVO konformes Hosting und Architektur. Sicherer Standort in Deutschland.
                   </p>
                 </div>
               </div>
@@ -235,9 +229,9 @@ export default function LandingPage() {
               ))}
             </div>
             <blockquote className="text-2xl md:text-3xl font-medium text-white mb-6">
-              "Seitdem wir Elliott Assist einsetzen, sparen wir 15 Stunden pro Woche im Support."
+              "Seitdem wir Elliott Assist einsetzen, sparen wir 10 Stunden pro Monat im Support."
             </blockquote>
-            <cite className="text-sky-100 text-lg">Sarah Mueller, E-Commerce Gründerin</cite>
+            <cite className="text-sky-100 text-lg">Britta, E-Commerce Gründerin</cite>
           </motion.div>
         </div>
       </section>
