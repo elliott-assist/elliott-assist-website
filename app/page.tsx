@@ -111,7 +111,7 @@ export default function LandingPage() {
             */}
 
             <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Bearbeite deine Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott-Assist - direkt in
+              Bearbeite deine Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott Assist - direkt in
               Gmail
             </motion.h1>
 
