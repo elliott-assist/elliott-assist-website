@@ -101,12 +101,12 @@ export default function LandingPage() {
       <section className="relative bg-gradient-to-br from-indigo-50 via-white to-sky-50 pt-16 pb-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div variants={staggerContainer} initial="initial" animate="animate" className="text-center">
-            <motion.div variants={fadeInUp} className="mb-6">
+          <!-- <motion.div variants={fadeInUp} className="mb-6">
               <Badge variant="secondary" className="bg-lime-100 text-lime-800 border-lime-200">
                 <Star className="w-4 h-4 mr-1" />
                 Über 500 zufriedene Kunden
               </Badge>
-            </motion.div>
+            </motion.div> -->
 
             <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
               Bearbeite deine Kundenanfragen <span className="text-indigo-600">67% schneller</span> mit AI - direkt in
