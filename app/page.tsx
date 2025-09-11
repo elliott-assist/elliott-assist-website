@@ -73,7 +73,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <div className="ml-3">
-                <span className="text-xl font-bold text-gray-900">SupportAI</span>
+                <span className="text-xl font-bold text-gray-900">Elliott Assist</span>
               </div>
             </div>
 
@@ -229,7 +229,7 @@ export default function LandingPage() {
               ))}
             </div>
             <blockquote className="text-2xl md:text-3xl font-medium text-white mb-6">
-              "Seitdem wir SupportAI einsetzen, sparen wir 15 Stunden pro Woche im Support."
+              "Seitdem wir Elliott Assist einsetzen, sparen wir 15 Stunden pro Woche im Support."
             </blockquote>
             <cite className="text-sky-100 text-lg">Sarah Mueller, E-Commerce Gründerin</cite>
           </motion.div>
@@ -616,7 +616,7 @@ export default function LandingPage() {
       <section className="py-20 bg-gradient-to-br from-indigo-600 via-indigo-700 to-sky-600">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starte jetzt mit SupportAI</h2>
+            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starte jetzt mit Elliott Assist</h2>
             <p className="text-xl text-indigo-100 mb-8">
               Reduziere deine Supportlast. Steigere deine Qualität. Gewinne Zeit für Wachstum.
             </p>
@@ -652,7 +652,7 @@ export default function LandingPage() {
                 <div className="h-8 w-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
                   <Bot className="h-5 w-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">SupportAI</span>
+                <span className="text-xl font-bold">Elliott Assist</span>
               </div>
               <p className="text-gray-400">AI-powered Customer Support für moderne Unternehmen</p>
             </div>
@@ -722,7 +722,7 @@ export default function LandingPage() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 SupportAI. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2024 Elliott Assist. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>
