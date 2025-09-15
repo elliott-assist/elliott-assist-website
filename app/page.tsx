@@ -247,7 +247,7 @@ export default function LandingPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Tieferes Produktverständnis</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Unsere AI versteht Ihr Business und liefert präzise, einheitliche Antworten
+              Alliott Assist versteht Ihre Produkte und liefert präzise, einheitliche Antworten
             </p>
           </motion.div>
 
