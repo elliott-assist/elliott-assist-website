@@ -348,6 +348,7 @@ export default function LandingPage() {
       </section>
 
       {/* Section 4: Case Studies */}
+      {/*
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div
@@ -419,6 +420,7 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+      */}
 
       {/* Section 5: Onboarding Flow */}
       <section className="py-20 bg-gradient-to-br from-indigo-50 to-sky-50">
@@ -426,7 +428,7 @@ export default function LandingPage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                Unterstütztes Onboarding durch unser Team
+                Für einen schnellen Start unterstützt unser Team das Onboarding
               </h2>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
@@ -434,8 +436,8 @@ export default function LandingPage() {
                     1
                   </div>
                   <div>
-                    <h3 className="font-semibold text-gray-900 mb-1">Einfaches Hochladen des Repository</h3>
-                    <p className="text-gray-600">Laden Sie Ihre bestehenden FAQ und Dokumente hoch</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">Befüllen des Repository</h3>
+                    <p className="text-gray-600">Wir laden bestehenden FAQs und Produktinformationen hoch</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -444,7 +446,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Schnelle Integration</h3>
-                    <p className="text-gray-600">Dank Google Workspace App in wenigen Minuten einsatzbereit</p>
+                    <p className="text-gray-600">Dank Google Workspace App ist das Plugin in wenigen Schritten hinzugefügt</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -476,11 +478,11 @@ export default function LandingPage() {
                     <CheckCircle className="h-5 w-5 text-lime-500" />
                   </div>
                   <div className="flex items-center justify-between p-4 bg-indigo-50 rounded-lg border-2 border-indigo-200">
-                    <span className="text-sm font-medium text-indigo-700">AI Training</span>
+                    <span className="text-sm font-medium text-indigo-700">Live Testing</span>
                     <div className="w-5 h-5 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin"></div>
                   </div>
                   <div className="flex items-center justify-between p-4 bg-gray-50 rounded-lg opacity-50">
-                    <span className="text-sm font-medium text-gray-700">Live Testing</span>
+                    <span className="text-sm font-medium text-gray-700">Laufenden Optimierung</span>
                     <div className="w-5 h-5 border-2 border-gray-300 rounded-full"></div>
                   </div>
                 </div>
@@ -491,6 +493,7 @@ export default function LandingPage() {
       </section>
 
       {/* Section 6: Features Grid */}
+      {/*
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div
@@ -499,8 +502,8 @@ export default function LandingPage() {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Unterstützt Ihr Wachstum</h2>
-            <p className="text-xl text-gray-600">Egal ob Sie alleine arbeiten oder ein Team haben</p>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Elliott Assist Unterstützt Ihr Wachstum</h2>
+            <p className="text-xl text-gray-600">Egal ob Sie alleine oder im Team arbeiten</p>
           </motion.div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -513,7 +516,7 @@ export default function LandingPage() {
               {
                 icon: Globe,
                 title: "Multi Language",
-                description: "Support in 12 Sprachen",
+                description: "Support in verschiedenen Sprachen",
               },
               {
                 icon: MessageSquare,
@@ -554,6 +557,7 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+      */}
 
       {/* Section 7: Compliance */}
       <section className="py-20 bg-gray-50">
@@ -620,13 +624,13 @@ export default function LandingPage() {
       <section className="py-20 bg-gradient-to-br from-indigo-600 via-indigo-700 to-sky-600">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starte jetzt mit Elliott Assist</h2>
+            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starten Sie jetzt mit Elliott Assist</h2>
             <p className="text-xl text-indigo-100 mb-8">
-              Reduziere deine Supportlast. Steigere deine Qualität. Gewinne Zeit für Wachstum.
+              Beschleunige den Support. Steigere die Qualität. Gewinne mehr Zeit für Wachstum.
             </p>
             <p className="text-lg text-indigo-200 mb-10 max-w-3xl mx-auto">
-              Klare Workflows für den Kundensupport ermöglichen dir Zeit zu sparen und deinen Kunden den bestmöglichen
-              Kundensupport zu bieten
+              Klare Workflows für den Kundensupport ermöglichen dir Zeit zu sparen und bieten deinen Kunden den bestmöglichen
+              Kundensupport
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
