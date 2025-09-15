@@ -251,7 +251,7 @@ export default function LandingPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Tieferes Produktverständnis</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Alliott Assist versteht Ihre Produkte und liefert präzise, einheitliche Antworten
+              Elliott Assist versteht Ihre Produkte und liefert präzise, einheitliche Antworten
             </p>
           </motion.div>
 
@@ -269,17 +269,17 @@ export default function LandingPage() {
                   </div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Wissensdatenbank</h3>
                   <p className="text-gray-600 mb-6">
-                    Einheitliche Antworten dank Repository. Automatisches FAQ-Matching & konfigurierbare
-                    Wissensdatenbank.
+                    Einheitliche Antworten dank Repository. Automatisiertes FAQ-Matching & konfigurierbare
+                    Wissensdatenbank für ein einheitliches Kundenerlebnis.
                   </p>
                   <div className="space-y-2">
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Automatisches FAQ-Matching
+                      Automatisiertes FAQ-Matching
                     </div>
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Konfigurierbare Datenbank
+                      Konfigurierbare Wissensdatenbank
                     </div>
                   </div>
                 </CardContent>
@@ -299,16 +299,16 @@ export default function LandingPage() {
                   </div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Gmail Integration</h3>
                   <p className="text-gray-600 mb-6">
-                    Kein neues Interface, kein Tab-Wechsel. Direkter Zugriff dort, wo du arbeitest.
+                    Arbeiten wie gewohnt in Gmail. Direkter Zugriff dort, wo du arbeitest.
                   </p>
                   <div className="space-y-2">
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Nahtlose Integration
+                      Einfache & Schnelle Integration
                     </div>
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Gewohntes Interface
+                      Arbeiten in bestehender Gmail Umgebung
                     </div>
                   </div>
                 </CardContent>
@@ -326,18 +326,18 @@ export default function LandingPage() {
                   <div className="w-16 h-16 bg-lime-100 rounded-full flex items-center justify-center mx-auto mb-6">
                     <Workflow className="h-8 w-8 text-lime-600" />
                   </div>
-                  <h3 className="text-xl font-semibold text-gray-900 mb-4">Bessere Qualität</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 mb-4">Verbesserter Kundensupport</h3>
                   <p className="text-gray-600 mb-6">
-                    Schnellere Einarbeitung, bessere Qualität. Klar strukturierte Workflows & transparente Antworten.
+                    Schnelle Einarbeitung, direkter Zugriff auf alle Informationen und klar strukturierte Kundenantworten.
                   </p>
                   <div className="space-y-2">
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Strukturierte Workflows
+                      Einheitliches Kundenerlebnis
                     </div>
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Transparente Antworten
+                      Zugriff auf alle Produktinformationen
                     </div>
                   </div>
                 </CardContent>
