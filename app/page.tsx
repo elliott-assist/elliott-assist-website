@@ -73,15 +73,6 @@ export default function LandingPage() {
                 </div>
               </div>
               <div className="ml-3">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                <span className="text-xl font-bold text-gray-900">Elliott Assist</span>
-=======
-                <span className="text-xl font-bold text-gray-900">Elliott-Assist</span>
->>>>>>> Stashed changes
-=======
-                <span className="text-xl font-bold text-gray-900">Elliott-Assist</span>
->>>>>>> Stashed changes
               </div>
             </div>
 
@@ -172,7 +163,7 @@ export default function LandingPage() {
                     <div className="flex items-center">
                       <Bot className="h-8 w-8 text-indigo-600 mr-3" />
                       <div>
-                        <p className="text-sm font-medium text-gray-900">Indidividuelle Antworten generiert</p>
+                        <p className="text-sm font-medium text-gray-900">Generiere indidividuelle Antworten</p>
                         <p className="text-xs text-gray-500">Basierend auf deinen Produktdaten</p>
                       </div>
                     </div>
