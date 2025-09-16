@@ -114,12 +114,12 @@ export default function LandingPage() {
             */}
 
             <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Bearbeite deine Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott Assist - direkt in
+              Bearbeite Kundenanfragen <span className="text-indigo-600">60% schneller</span> mit Elliott Assist - direkt in
               Gmail
             </motion.h1>
 
             <motion.p variants={fadeInUp} className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Skaliere deinen Support mit Elliott Assist und spare Zeit. Beschleunige Konversationen E-Mails mit unserem Assist Tool.
+              Skaliere deinen Support mit Elliott Assist und spare Zeit. Beschleunige deine Kundensupport mit unserem Assist Tool.
             </motion.p>
 
             <motion.div variants={fadeInUp} className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -232,7 +232,7 @@ export default function LandingPage() {
               ))}
             </div>
             <blockquote className="text-2xl md:text-3xl font-medium text-white mb-6">
-              "Seitdem wir Elliott Assist einsetzen, sparen wir 10 Stunden pro Monat im Support."
+              "Seitdem wir Elliott Assist einsetzen, sparen wir ca. 10 Stunden pro Monat im Support."
             </blockquote>
             <cite className="text-sky-100 text-lg">Britta, E-Commerce Gründerin</cite>
           </motion.div>
@@ -250,7 +250,7 @@ export default function LandingPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Tieferes Produktverständnis</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Elliott Assist versteht Ihre Produkte und liefert präzise, einheitliche Antworten
+              Elliott Assist versteht deine Produkte und liefert präzise und einheitliche Antworten
             </p>
           </motion.div>
 
@@ -278,7 +278,7 @@ export default function LandingPage() {
                     </div>
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Konfigurierbare Wissensdatenbank
+                      Individuelle Wissensdatenbank
                     </div>
                   </div>
                 </CardContent>
@@ -298,16 +298,16 @@ export default function LandingPage() {
                   </div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Gmail Integration</h3>
                   <p className="text-gray-600 mb-6">
-                    Arbeiten wie gewohnt in Gmail. Direkter Zugriff dort, wo du arbeitest.
+                    Arbeiten wie gewohnt in Gmail und erhalte direkter Zugriff auf vorformulierte Antowrten.
                   </p>
                   <div className="space-y-2">
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Einfache & Schnelle Integration
+                      Einfach & Schnell Integriert
                     </div>
                     <div className="flex items-center text-sm text-gray-500">
                       <CheckCircle className="h-4 w-4 text-lime-500 mr-2" />
-                      Arbeiten in bestehender Gmail Umgebung
+                      Arbeite in bestehender Gmail Umgebung
                     </div>
                   </div>
                 </CardContent>
@@ -327,7 +327,7 @@ export default function LandingPage() {
                   </div>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Verbesserter Kundensupport</h3>
                   <p className="text-gray-600 mb-6">
-                    Schnelle Einarbeitung, direkter Zugriff auf alle Informationen und klar strukturierte Kundenantworten.
+                    Schnelle Einarbeitung dank direktem Zugriff auf alle Informationen und klar strukturierte Kundenantworten.
                   </p>
                   <div className="space-y-2">
                     <div className="flex items-center text-sm text-gray-500">
@@ -427,7 +427,7 @@ export default function LandingPage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                Für einen schnellen Start unterstützt unser Team das Onboarding
+                Für einen schnellen Start unterstützt unser Team dein Onboarding
               </h2>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
@@ -454,7 +454,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Transparente Übersicht</h3>
-                    <p className="text-gray-600">Durch die Repository Lösung behalten Sie stets den Überblick</p>
+                    <p className="text-gray-600">Durch die Repository Lösung behälst du stets den Überblick</p>
                   </div>
                 </div>
               </div>
@@ -623,12 +623,12 @@ export default function LandingPage() {
       <section className="py-20 bg-gradient-to-br from-indigo-600 via-indigo-700 to-sky-600">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starten Sie jetzt mit Elliott Assist</h2>
+            <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Starten jetzt mit Elliott Assist</h2>
             <p className="text-xl text-indigo-100 mb-8">
-              Beschleunige den Support. Steigere die Qualität. Gewinne mehr Zeit für Wachstum.
+              Beschleunige deinen Kundensupport. Steigere die Kundenzufriedenheit. Gewinne mehr Zeit für Wachstum.
             </p>
             <p className="text-lg text-indigo-200 mb-10 max-w-3xl mx-auto">
-              Klare Workflows für den Kundensupport ermöglichen dir Zeit zu sparen und bieten deinen Kunden den bestmöglichen
+              Klare Workflows für den Kundensupport ermöglichen es dir Zeit zu sparen und bieten deinen Kunden den bestmöglichen
               Kundensupport
             </p>
 
