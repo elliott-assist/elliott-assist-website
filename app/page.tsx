@@ -74,7 +74,11 @@ export default function LandingPage() {
               </div>
               <div className="ml-3">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 <span className="text-xl font-bold text-gray-900">Elliott Assist</span>
+=======
+                <span className="text-xl font-bold text-gray-900">Elliott-Assist</span>
+>>>>>>> Stashed changes
 =======
                 <span className="text-xl font-bold text-gray-900">Elliott-Assist</span>
 >>>>>>> Stashed changes
