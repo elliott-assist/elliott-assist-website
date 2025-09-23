@@ -707,7 +707,7 @@ export default function LandingPage() {
               <h3 className="font-semibold mb-4">Legal</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>
-                  <Link href="#" className="hover:text-white">
+                  <Link href="/impressum" className="hover:text-white">
                     Impressum
                   </Link>
                 </li>
